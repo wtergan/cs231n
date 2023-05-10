@@ -6,6 +6,8 @@
 Code solutions for each assignment in Stanford's cs231n course.
 All code is heavily commented and explained in detail.
 
+All assignments is in a .ipynb file (jupyter notebook), and executed on Google Colab. Complementary files used for execution in .py format. Simple plug and play.
+
 ### Main sources (official)
 * [**Course page**](http://cs231n.stanford.edu/2022/)
 * [**Assignments**](http://cs231n.stanford.edu/2022/schedule.html)
