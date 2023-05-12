@@ -35,8 +35,7 @@ All assignments is in a .ipynb file (jupyter notebook), and executed on Google C
     * Q1: Image Captioning with Vanilla RNNs :white_check_mark:
     * Q2: Image Captioning with Transformers :white_check_mark:
     * Q3: Generative Adversarial Networks :white_check_mark:
-    * Q4: Self-Supervised Learning for Image Classification :x:
-         * Must finish the whole notebook
+    * Q4: Self-Supervised Learning for Image Classification :white_check_mark:
     * Extra Credit: Image Captioning with LSTMs :white_check_mark:
 
 <br>
